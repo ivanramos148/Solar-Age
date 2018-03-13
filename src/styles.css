@@ -1,7 +1,9 @@
 body {
-  background-color: #7FDBFF;
+  background-color: #ECDB54;
+  text-align: center;
 }
 
-#outputName{
-  color: red;
+h1 {
+  font-family: 'Libre Baskerville', serif;
+  color: #E94B3C
 }
